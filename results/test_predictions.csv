@@ -1,0 +1,4 @@
+text,predicted_sentiment,confidence
+This is fantastic!,positive,0.8547083735466003
+I really disliked this.,negative,0.7774566411972046
+The experience was okay.,positive,0.6958776116371155
